@@ -16,5 +16,5 @@ Se video tutorial här: https://youtu.be/a5nS0vrzPMk
 Se mer utvecklad vektorimplementering för lagring av heltal i C här:
 https://github.com/Erik-Pihl-Programming-tutorials/Dynamisk-minnesallokering-i-C-del-II.git
 
-Se mer utvecklad klasstemplete-implementering för polymorfa vektorer i C++ här: 
+Se mer utvecklad klasstemplate-implementering för polymorfa vektorer i C++ här: 
 https://github.com/Erik-Pihl-Programming-tutorials/Klasstemplates-i-CPP.git
